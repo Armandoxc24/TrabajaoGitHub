@@ -1,1 +1,1 @@
-Lo que voy hacer es subir cada dia 1 commit diferente de los trabajos/ejercicios que hago en clase de diferentes assignaturas 1DAW
+Lo que voy hacer es subir commits de diferentes trabajos/ejercicios que hago en clase de diferentes assignaturas 1DAW
